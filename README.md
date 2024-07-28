@@ -1,7 +1,10 @@
-[![MasterHead]([https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Frj0zw5dyozg71.gif](https://i.pinimg.com/originals/ef/5e/4b/ef5e4b4d024c66b42311e337ae8ab4cc.gif))]
-<h1 align="center">Hi 👋, I'm Josip</h1>
-<h3 align="center">A perceptive programming student looking for a job to start his professional journey</h3>
-<img align="right" alt="Coding" width="400" src="[https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Frj0zw5dyozg71.gif]">
+<img src="https://i.pinimg.com/originals/ef/5e/4b/ef5e4b4d024c66b42311e337ae8ab4cc.gif" alt="Alt Text" style="width:1200px; height:20%;" />
+
+
+
+<h1 align="center">Hello 👉😎👉, I am Josip</h1>
+<h3 align="center">🆕 A perceptive programming student looking for a job to start his professional journey 🆕</h3>
+<img align="right" alt="Coding" width="400" src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Frj0zw5dyozg71.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josip992&label=Profile%20views&color=0e75b6&style=flat" alt="josip992" /> </p>
 
 - 🌱 I’m currently learning **Angular foundations**
