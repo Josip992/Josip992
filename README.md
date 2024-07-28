@@ -4,7 +4,7 @@
 
 <h1 align="center">Hello 👉😎👉, I am Josip</h1>
 <h3 align="center">🆕 A perceptive programming student looking for a job to start his professional journey 🆕</h3>
-<img align="right" alt="Coding" width="400" src="https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Frj0zw5dyozg71.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d0/a5/96/d0a596d4318bd9c388d8e41324bdf392.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josip992&label=Profile%20views&color=0e75b6&style=flat" alt="josip992" /> </p>
 
 - 🌱 I’m currently learning **Angular foundations**
