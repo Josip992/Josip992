@@ -11,7 +11,7 @@
 
 - 📫 Send me an e-mail on **workflow922@gmail.com**
 
-- ⚡ Annoyingly **perceptive**
+- ⚡ **Calm** and annoyingly **perceptive**
 
 <h3 align="left">Check me out on:</h3>
 <p align="left">
