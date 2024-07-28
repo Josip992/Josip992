@@ -1,10 +1,10 @@
-<img src="https://i.pinimg.com/originals/ef/5e/4b/ef5e4b4d024c66b42311e337ae8ab4cc.gif" alt="Alt Text" style="width:1200px; height:20%;" />
+<img src="https://openseauserdata.com/files/7a3f73f8d470101f65e013e520ca4605.gif" alt="Alt Text" style="width:1200px; height:450px;" />
 
 
 
 <h1 align="center">Hello 👉😎👉, I am Josip</h1>
 <h3 align="center">🆕 A perceptive programming student looking for a job to start his professional journey 🆕</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/d0/a5/96/d0a596d4318bd9c388d8e41324bdf392.gif">
+<img align="right" alt="Error404" width="400" src="https://i.pinimg.com/originals/9d/73/2e/9d732eb5ff10910ba8c81538fe7fcd65.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josip992&label=Profile%20views&color=0e75b6&style=flat" alt="josip992" /> </p>
 
 - 🌱 I’m currently learning **Angular foundations**
