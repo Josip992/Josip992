@@ -7,7 +7,7 @@
 <img align="right" alt="Error404" width="300" src="https://i.pinimg.com/originals/9d/73/2e/9d732eb5ff10910ba8c81538fe7fcd65.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=josip992&label=Profile%20views&color=0e75b6&style=flat" alt="josip992" /> </p>
 
-- 🌱 I’m currently learning **Angular foundations**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 Send me an e-mail on **workflow922@gmail.com**
 
