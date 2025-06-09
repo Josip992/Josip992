@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hello there 👉😎👉</h1>
-<h3 align="center"> A perceptive programming student looking for a job to start his professional journey </h3>
+<h3 align="center"> A perceptive Bachelor in Computing looking for a job to start his professional journey </h3>
 <img align="right" alt="Error404" width="300" src="https://i.pinimg.com/originals/9d/73/2e/9d732eb5ff10910ba8c81538fe7fcd65.gif">
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=josip992&label=Profile%20views&color=0e75b6&style=flat" alt="josip992" /> </p>-->
 
